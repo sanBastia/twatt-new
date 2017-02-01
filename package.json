@@ -1,0 +1,23 @@
+{
+  "name": "twatt-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanBastia/twatt-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanBastia/twatt-new/issues"
+  },
+  "homepage": "https://github.com/sanBastia/twatt-new#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "twitter": "^1.7.0"
+  }
+}
